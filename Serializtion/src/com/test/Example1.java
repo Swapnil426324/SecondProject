@@ -8,7 +8,7 @@ public class Example1 {
 				if(j==1||j==2||j==3)
 					System.out.print("* ");
 				else if(j==4||j==5||j==6)
-					System.out.print("@ ");
+					System.out.print("# ");
 				else if(j>6)
 					System.out.print(j-6+" ");
 			}
